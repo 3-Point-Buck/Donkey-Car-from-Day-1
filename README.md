@@ -5,3 +5,5 @@ anything to do with AI.
 
 Each week not only has a lesson plan, but it also includes generic code examples for Python and micro-python. This code is
 meant as a starting point, not functional code.
+
+This was completed using different online resources such as the Donkey Car website, DIY Robocars website, and ChatGPT.
